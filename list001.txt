@@ -6,3 +6,4 @@ total 38
 -rw-r--r-- 1 admin 197121 35815 Jun 20 22:10 LICENSE
 -rw-r--r-- 1 admin 197121    28 Jun 20 22:10 README.md
 -rw-r--r-- 1 admin 197121   174 Jun 25 02:45 list001.txt
+listing of files

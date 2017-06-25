@@ -1,4 +1,12 @@
 total 37
 -rw-r--r-- 1 admin 197121 35815 Jun 20 22:10 LICENSE
 -rw-r--r-- 1 admin 197121    28 Jun 20 22:10 README.md
+<<<<<<< HEAD
 -rw-r--r-- 1 admin 197121     0 Jun 20 22:29 list001.txt
+=======
+-rw-r--r-- 1 admin 197121     0 Jun 20 22:12 list001.txt
+total 38
+-rw-r--r-- 1 admin 197121 35815 Jun 20 22:10 LICENSE
+-rw-r--r-- 1 admin 197121    28 Jun 20 22:10 README.md
+-rw-r--r-- 1 admin 197121   178 Jun 20 22:15 list001.txt
+>>>>>>> test01
